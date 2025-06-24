@@ -27,31 +27,22 @@
 
 <hr>
 
-<p align="center">
-<i><b>Languages Currently Learning:</b></i> 
-  <br><br>
-  <div align="center">
-  <code><img height="30" src="icons/js_icon.svg"></code>
-  
-  <code><img height="30" src="icons/html5_icon.svg"></code>
-  <code><img height="30" src="icons/bootstrap_icon.svg"></code>
-  <code><img height="30" src="icons/c.svg"></code>
-  <code><img height="30" src="icons/css3_icon.svg"></code>
-  <code><img height="30" src="icons/git_icon.svg"></code>
-  <code><img height="30" src="icons/github_icon.svg"></code>
-  <code><img height="30" src="icons/java_icon.svg"></code>
-  <code><img height="30" src="icons/django.svg"></code>
-              
-  <code><img height="30" src="icons/mongodb_icon.svg"></code>
-  <code><img height="30" src="icons/mysql_icon.svg"></code>
-  <code><img height="30" src="icons/nodejs_icon.svg"></code>
-  
-  <code><img height="30" src="icons/python_icon.svg"></code>
-  <code><img height="30" src="icons/react_icon.svg"></code>
-<!--   <code><img height="20" src="icons/js.svg"></code> -->
-  </div>
+## 🚀 Languages Currently Learning:
+
+<p align="center"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://sql.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
+    <a href="https://clanguage.com" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/> </a>
+    <a href="https://c++language.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 </p>
 
+
 <hr>
+
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
