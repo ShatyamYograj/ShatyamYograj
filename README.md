@@ -13,15 +13,15 @@
 
 - 🔭 I’m currently working on **... Open Source!**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms!**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project involving Web Development**
 
+- 🤔 I’m looking for help with ... Data Structures and Algorithms concepts.
+
 - 👨‍💻 My projects are available at **[My Portfolio](https://shatyam-portfolio.netlify.app/)**
 
--  🤔 I’m looking for help with ... Data Structures and Algorithms concepts.
-
-- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://https://www.linkedin.com/in/shatyam-yograj-54588a259/">@shatyam-yograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@ShatyamYograj</a>
+- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://https://www.linkedin.com/in/shatyam-yograj-54588a259/">@ShatyamYograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@ShatyamYograj</a>
 
 - 😄 Pronouns: he/him
 
