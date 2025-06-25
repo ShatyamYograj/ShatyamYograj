@@ -21,7 +21,7 @@
 
 - 👨‍💻 My projects are available at **[My Portfolio](https://shatyam-portfolio.netlify.app/)**
 
-- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/shatyam-yograj-54588a259/">@Shatyam Yograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@Shatyam Yograj</a>
+- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/shatyam-yograj-54588a259/">@Shatyam Yograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@ShatyamYograj</a>
 
 - 😄 Pronouns: he/him
 
@@ -50,7 +50,7 @@
 
 <hr>
 
-<hr>
-
+![Shatyam's github stats](https://github-readme-stats.vercel.app/api?username=ShatyamYograj&show_icons=true&hide_border=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShatyamYograj&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
