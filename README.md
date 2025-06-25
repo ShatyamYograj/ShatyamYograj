@@ -21,7 +21,7 @@
 
 - 👨‍💻 My projects are available at **[My Portfolio](https://shatyam-portfolio.netlify.app/)**
 
-- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://https://www.linkedin.com/in/shatyam-yograj-54588a259/">@Shatyam Yograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@ShatyamYograj</a>
+- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/shatyam-yograj-54588a259/">@Shatyam Yograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@Shatyam Yograj</a>
 
 - 😄 Pronouns: he/him
 
@@ -32,20 +32,16 @@
   <br><br>
   <div align="center">
   <code><img height="30" src="icons/js_icon.svg"></code>
-  <code><img height="30" src="icons/jquery_icon.svg"></code>
   <code><img height="30" src="icons/html5_icon.svg"></code>
   <code><img height="30" src="icons/bootstrap_icon.svg"></code>
   <code><img height="30" src="icons/c.svg"></code>
   <code><img height="30" src="icons/css3_icon.svg"></code>
   <code><img height="30" src="icons/git_icon.svg"></code>
   <code><img height="30" src="icons/github_icon.svg"></code>
-  <code><img height="30" src="icons/java_icon.svg"></code>
-  <code><img height="30" src="icons/django.svg"></code>
-  <code><img height="30" src="icons/laravel.svg"></code>
+  <code><img height="30" src="icons/java_icon.svg"></code>  
   <code><img height="30" src="icons/mongodb_icon.svg"></code>
   <code><img height="30" src="icons/mysql_icon.svg"></code>
   <code><img height="30" src="icons/nodejs_icon.svg"></code>
-  <code><img height="30" src="icons/php.svg"></code>
   <code><img height="30" src="icons/python_icon.svg"></code>
   <code><img height="30" src="icons/react_icon.svg"></code>
 <!--   <code><img height="20" src="icons/js.svg"></code> -->
