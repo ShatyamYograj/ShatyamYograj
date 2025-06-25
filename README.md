@@ -21,26 +21,38 @@
 
 - 👨‍💻 My projects are available at **[My Portfolio](https://shatyam-portfolio.netlify.app/)**
 
-- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://https://www.linkedin.com/in/shatyam-yograj-54588a259/">@ShatyamYograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@ShatyamYograj</a>
+- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://https://www.linkedin.com/in/shatyam-yograj-54588a259/">@Shatyam Yograj</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/ShatyamYograj">@ShatyamYograj</a>
 
 - 😄 Pronouns: he/him
 
 <hr>
 
-## 🚀 Languages Currently Learning:
-
-<p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://sql.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
-    <a href="https://clanguage.com" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/> </a>
-    <a href="https://c++language.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+<p align="center">
+<i><b>Languages Currently Learning:</b></i> 
+  <br><br>
+  <div align="center">
+  <code><img height="30" src="icons/js_icon.svg"></code>
+  <code><img height="30" src="icons/jquery_icon.svg"></code>
+  <code><img height="30" src="icons/html5_icon.svg"></code>
+  <code><img height="30" src="icons/bootstrap_icon.svg"></code>
+  <code><img height="30" src="icons/c.svg"></code>
+  <code><img height="30" src="icons/css3_icon.svg"></code>
+  <code><img height="30" src="icons/git_icon.svg"></code>
+  <code><img height="30" src="icons/github_icon.svg"></code>
+  <code><img height="30" src="icons/java_icon.svg"></code>
+  <code><img height="30" src="icons/django.svg"></code>
+  <code><img height="30" src="icons/laravel.svg"></code>
+  <code><img height="30" src="icons/mongodb_icon.svg"></code>
+  <code><img height="30" src="icons/mysql_icon.svg"></code>
+  <code><img height="30" src="icons/nodejs_icon.svg"></code>
+  <code><img height="30" src="icons/php.svg"></code>
+  <code><img height="30" src="icons/python_icon.svg"></code>
+  <code><img height="30" src="icons/react_icon.svg"></code>
+<!--   <code><img height="20" src="icons/js.svg"></code> -->
+  </div>
 </p>
 
+<hr>
 
 <hr>
 
